@@ -23,4 +23,3 @@ There are 4 endpoints:
 2. `GET /crash` - crashes the server immediately.
 3. `GET /load/cpu?duration=10s&intensity=5` - starts a CPU load for the specified duration and intensity.
 4. `GET /load/memory?duration=10s&intensity=5` - starts a memory load for the specified duration and intensity.
-+
